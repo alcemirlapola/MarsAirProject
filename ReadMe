@@ -1,0 +1,13 @@
+Este arquivo tem como objetivo dar um overview do que foi realizado no projeto de automação.
+
+
+A automação foi criada no formato BDD, utilizando os conceitos de StepDefinitios e PageObjects
+
+
+A Linguagem utilizada foi Java, na IDE Eclipse
+
+
+Para rodar, apenas precisa realizar um pull da branch da master
+
+
+A Runner já está configurada para rodar todos os 5 cenários que foram automatizados. Então, uma vez dando Run (CTRL+F11) já será possível visualizar os testes sendo executados
