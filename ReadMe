@@ -4,7 +4,7 @@ Este arquivo tem como objetivo dar um overview do que foi realizado no projeto d
 A automação foi criada no formato BDD, utilizando os conceitos de StepDefinitios e PageObjects
 
 
-A Linguagem utilizada foi Java, na IDE Eclipse
+A Linguagem utilizada foi Java, na IDE Eclipse IDE for Java Developers (Version: 2019-09 R (4.13.0))
 
 
 Para rodar, apenas precisa realizar um pull da branch da master
